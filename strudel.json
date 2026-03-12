@@ -1,0 +1,9 @@
+{
+  "_base": "https://raw.githubusercontent.com/caledfwelch/crank_samples/main/",
+  "crank": [
+    "crank_it.wav",
+    "linklater.wav",
+    "tequila.wav",
+    "uh.wav"
+  ]
+}
